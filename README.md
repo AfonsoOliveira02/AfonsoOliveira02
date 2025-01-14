@@ -20,10 +20,10 @@ Here are the technologies I’ve been working with:
 
 Here are a few projects I’ve worked on recently:
 
-1. **[Cadet Survivors]**: [A game made with simplegraphicslibrary in java]. [https://github.com/AfonsoOliveira02/Cadet-Survivors]
-2. **[UnWasted frontend]**: [Single Page application made with JavaScript]. [https://github.com/AfonsoOliveira02/UnWastedFrontEnd].
-3. **[UnWasted backend]** : [Java spring-boot backend]. [https://github.com/AfonsoOliveira02/UnWastedFrontEnd]
-4. **[SPASummoner]**: [Single page application to view a summoner profile from League Of Legends]. [Link to repository or demo].
+1. **[Cadet Survivors](https://github.com/AfonsoOliveira02/Cadet-Survivors)**: [A game made with simplegraphicslibrary in java].
+2. **[UnWasted frontend](https://github.com/AfonsoOliveira02/UnWastedFrontEnd)**: [Single Page application made with JavaScript].
+3. **[UnWasted backend](https://github.com/AfonsoOliveira02/UnWastedBackEnd)** : [Java spring-boot backend]. 
+4. **[SPASummoner]**: [Single page application to view a summoner profile from League Of Legends].
 
 ## GitHub Stats 📊
 
