@@ -27,9 +27,9 @@ Here are a few projects I’ve worked on recently:
 
 ## GitHub Stats 📊
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?AfonsoOliveira02=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AfonsoOliveira02&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?AfonsoOliveira02=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoOliveira02&layout=compact&theme=radical)
 
 ## Connect with Me 🌐
 
